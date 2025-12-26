@@ -137,7 +137,10 @@ An AI-powered customer support agent built with Zapier that automatically handle
 * Inspired by real customer support challenges
 * Powered by Zapier's no-code AI platform
 
+##  📬 Contacts  
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectingsrl@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajahanur-laskar/)
 
 
 
